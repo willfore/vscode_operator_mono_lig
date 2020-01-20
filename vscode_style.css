@@ -1,0 +1,29 @@
+.mtk7,
+.mtk3,
+.mtk13,
+.mtk16 {
+  margin-left: 1px;
+  font-family: "Operator Mono Lig";
+  font-size: 1.3em;
+}
+
+.mtk7,
+.mtk4 {
+  font-family: "Operator Mono Lig";
+  font-size: 1.3em;
+}
+
+/*
+  For the tab titles.
+*/
+.monaco-icon-label-description-container .label-name {
+  font-family: "Operator Mono Lig";
+  font-size: 1.3em;
+}
+
+.tabs-container .monaco-icon-label-description-container .label-name,
+.sidebar .monaco-icon-label-description-container .label-name,
+.quick-open-row .monaco-icon-label-description-container .label-name {
+  font-family: -apple-system,BlinkMacSystemFont,Segoe WPC,Segoe UI,HelveticaNeue-Light,Ubuntu,Droid Sans,sans-serif;
+  font-size: 1em;
+}
