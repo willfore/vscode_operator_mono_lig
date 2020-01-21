@@ -1,21 +1,23 @@
 .mtk7,
 .mtk3,
+.mtk4,
 .mtk13,
 .mtk16 {
   margin-left: 1px;
   font-family: "Operator Mono Lig";
-  font-size: 1.3em;
+  font-size: 1.2em;
 }
 
 .mtk1,
 .mtk6,
 .mtk7,
 .mtk8,
+.mtk9,
 .mtk10,
 .mtk12,
 .mtk4 {
   font-family: "Operator Mono Lig";
-  font-size: 1.3em;
+  font-size: 1.2em;
 }
 
 /*
